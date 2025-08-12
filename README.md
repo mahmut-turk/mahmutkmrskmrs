@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mahmutkmrskmrs
+- 👋 Hi, I’m @mahmutTurk
 - 👀 I’m interested in automation and project development.
 - 🌱 I’m currently learning C and C#
 - 💞️ I’m looking to collaborate on anything 
