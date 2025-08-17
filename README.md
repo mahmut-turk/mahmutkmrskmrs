@@ -1,5 +1,5 @@
 # Hi, I'm Mahmut Türk 👋
-## Embedded Systems & Software Developer | Biomedical Engineering Graduate
+## Embedded Systems & Software Developer | Biomedical Engineer
 
 ---
 
