@@ -27,7 +27,7 @@ Ich habe Biomedizintechnik studiert und interessiere mich besonders für Embedde
 
 2. **C# Desktop Application (Windows Forms)**
    - Functional desktop app demonstrating data input/output and reporting
-   - GitHub: https://github.com/mahmut-turk/CSharpFirstProject
+   - GitHub: [My First C# Project](https://github.com/mahmut-turk/CSharpFirstProject)
 
 
 ---
